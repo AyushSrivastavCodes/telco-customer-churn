@@ -10,14 +10,22 @@ This project uses machine learning to predict customer churn in a telecom compan
 - Model training (Random Forest)
 - Model evaluation (Confusion Matrix & Classification Report)
 
-## Technologies used:
-- Python (Pandas, Seaborn, Scikit-learn)
-- Jupyter Notebook
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib / Seaborn
 
-## Dataset:
-[Telco Customer Churn Dataset](https://raw.githubusercontent.com/dphi-official/Datasets/master/Telco-Customer-Churn.csv)
+## Dataset
+The dataset is taken from GitHub:  
+👉 [Telco Customer Churn Dataset](https://github.com/navdeep-G/customer-churn)
 
-## How to Run:
-Just open `churn_prediction.py` and run all cells. It will train a model and print predictions.
+Raw CSV:  
+👉 https://raw.githubusercontent.com/navdeep-G/customer-churn/main/Telco-Customer-Churn.csv
+
+## How to Run
+1. Clone the repository
+2. Run `churn_prediction.py` in Jupyter Notebook 
 
 ---
+
